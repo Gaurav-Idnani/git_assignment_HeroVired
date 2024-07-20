@@ -15,5 +15,8 @@ used the git commit -m "Version 1" to commit changes to dev branch
 used the git push to push the code to dev remote and updated the Readme till here.
 git push --set-upstream origin dev
 
+# Steps followed after switching back from feature/sqrt branch to dev
+# Note : One step was missed earlier, which involved merging the changes in dev to main. That step is being taken care before starting phase 3.(bugfix in dev)
+# Note : The changes from feature/sqrt have not been yet fetched in the dev branch
 
 
