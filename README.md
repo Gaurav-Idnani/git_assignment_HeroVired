@@ -15,5 +15,10 @@ used the git commit -m "Version 1" to commit changes to dev branch
 used the git push to push the code to dev remote and updated the Readme till here.
 git push --set-upstream origin dev
 
+# Steps followed for second phase in feature/sqrt branch
+Ceated the feature branch using the command git checkout -b feature/sqrt
+Uncommented the feature code in python file.
+Committed the change to branch
+Now saving the comments here and committing it to branch before switching back to dev.
 
 
