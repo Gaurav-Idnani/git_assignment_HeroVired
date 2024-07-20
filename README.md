@@ -13,7 +13,7 @@ Saved and committed the code in dev branch
 Used the git add . command to stage changes
 used the git commit -m "Version 1" to commit changes to dev branch
 used the git push to push the code to dev remote and updated the Readme till here.
-
+git push --set-upstream origin dev
 
 
 
