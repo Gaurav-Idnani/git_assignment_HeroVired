@@ -21,4 +21,13 @@ Uncommented the feature code in python file.
 Committed the change to branch
 Now saving the comments here and committing it to branch before switching back to dev.
 
+# Steps followed after switching back from feature/sqrt branch to dev
+# Note : One step was missed earlier, which involved merging the changes in dev to main. That step is being taken care before starting phase 3.(bugfix in dev)
+
+# Note : The changes from feature/sqrt have not been yet fetched in the dev branch
+First step was to close the pull request raised from dev to main to account for merge completion missed(as mentioned below)
+
+Then, the divide method was updated in the python file, followed by the commit.
+Lastly, since we need to keep the feature/sqrt branch up to date, these changes need to be merged there as well.
+
 
